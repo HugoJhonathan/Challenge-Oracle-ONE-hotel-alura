@@ -1,4 +1,4 @@
-<img align=left src="https://i.imgur.com/P9fjzh4.png" height=150 alt="badge-challenge">
+<img align=left src="https://i.imgur.com/I1KcMmp.png" height=150 alt="badge-challenge">
 
 <h2 align=center>Challenge ONE Back End - Java</h2>
 
@@ -29,7 +29,7 @@ Agora você pode estar se perguntando: como eu sei quais dados devo registrar? P
 
 ## Resultado
 
-https://github.com/HugoJhonathan/Challenge-Oracle-ONE-hotel-alura/assets/40052440/673291c8-c52d-417c-8ca8-d32e37a06b32
+https://github.com/HugoJhonathan/Challenge-Oracle-ONE-hotel-alura/assets/40052440/1a04c00b-37f1-464a-b2b0-997ced60ffc7
 
 ### Para iniciar o projeto:
 
