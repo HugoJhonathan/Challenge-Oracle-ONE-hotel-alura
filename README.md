@@ -40,7 +40,7 @@ https://github.com/HugoJhonathan/Challenge-Oracle-ONE-hotel-alura/assets/4005244
 
 <br>
 
-## Tecnologias utilizadas
+### Tecnologias utilizadas
 
 - Linguagem: Java
 - IDE: <a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a>
