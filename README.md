@@ -36,6 +36,7 @@ https://github.com/HugoJhonathan/Challenge-Oracle-ONE-hotel-alura/assets/4005244
 - Inicia servidor MySQL
 - Configura usuário/senha em <a href="https://github.com/HugoJhonathan/Challenge-Oracle-ONE-hotel-alura/blob/main/src/main/resources/application.properties">application.properties</a>
 - Executa classe <a href="https://github.com/HugoJhonathan/Challenge-Oracle-ONE-hotel-alura/blob/main/src/main/java/Main.java">Main</a>
+- `Login`: admin, `Senha`: admin
 
 <br>
 
